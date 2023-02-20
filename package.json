@@ -1,0 +1,25 @@
+{
+    "name": "storg",
+    "version": "0.0.1",
+    "description": "Simple http api based storage.",
+    "main": "src/main.js",
+    "type": "module",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/thmtvz/storg.git"
+    },
+    "keywords": [
+	"storage",
+	"http",
+	"api"
+    ],
+    "author": "Thiago Martins Vaz",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+	"url": "https://github.com/thmtvz/storg/issues"
+    },
+    "homepage": "https://github.com/thmtvz/storg#readme"
+}
